@@ -8,7 +8,7 @@ let loadImage = (src, callback) => {
 };
 let imagePath = (frameNumber, animation) => {
   return (
-    "C:/Users/jasmine p/Desktop/veduc/image/" +
+    "jasminep/image/" +
     animation +
     "/" +
     frameNumber +
